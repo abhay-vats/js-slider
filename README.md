@@ -9,4 +9,4 @@ Things I learned while building this:
 - How to use Parcel and SCSS,
 - And, finally, how to put everything together.
 
-[Code](https://github.com/abhay-vats/js-slider) | [Live]()
+[Code](https://github.com/abhay-vats/js-slider) | [Live](https://abhay-vats.github.io/js-slider)
